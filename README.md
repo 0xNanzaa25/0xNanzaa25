@@ -2,82 +2,56 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0b1020&height=3" />
 
-# LUPEPEKSOKHEKELJINK
+# 0xNanzaa25
 
-### Cybersecurity · Reverse Engineering · Digital Forensics
+**Cybersecurity · Reverse Engineering · Digital Forensics**
 
-*Learning how systems work. Understanding how they fail. Building ways to defend them.*
+*Understand the system. Examine the evidence. Improve the defense.*
 
-<br/>
+[![Profile](https://img.shields.io/badge/GitHub-0xNanzaa25-161b22?style=flat-square&logo=github)](https://github.com/0xNanzaa25)
+[![Focus](https://img.shields.io/badge/FOCUS-SECURITY_RESEARCH-263b5e?style=flat-square)](#areas-of-interest)
+[![Status](https://img.shields.io/badge/STATUS-LEARNING-343a40?style=flat-square)](#current-direction)
 
-[![GitHub](https://img.shields.io/badge/GitHub-Lupepeksokhekeljink-111827?style=flat-square&logo=github)](https://github.com/Lupepeksokhekeljink)
-[![Focus](https://img.shields.io/badge/FOCUS-SECURITY%20RESEARCH-2563eb?style=flat-square)](#focus)
-[![Status](https://img.shields.io/badge/STATUS-LEARNING-059669?style=flat-square)](#now)
-
-<br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&duration=3000&pause=1000&color=60A5FA&center=true&vCenter=true&width=620&lines=%24+whoami+%E2%86%92+security+enthusiast;%24+reverse+engineering;%24+analyze+%E2%86%92+understand+the+behavior;%24+defend+%E2%86%92+make+systems+safer" alt="Terminal intro" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=14&duration=3500&pause=1200&color=8AA4C8&center=true&vCenter=true&width=560&lines=%24+whoami+%E2%86%92+security+researcher+in+training;%24+inspect+%E2%86%92+understand+%E2%86%92+document;%24+offense+informs+defense" alt="Terminal introduction" />
 
 </div>
 
 ---
 
-## About
+## / about
 
-I'm a cybersecurity student focused on understanding software and systems from the inside out. I'm especially interested in the relationship between offensive security, defensive operations, and low-level program analysis.
+I'm a cybersecurity learner interested in how software behaves, how vulnerabilities emerge, and how systems can be better protected.
 
-I value practical labs, clear documentation, and learning the fundamentals before chasing tools.
+My current direction combines low-level program analysis with offensive and defensive security. I prioritize fundamentals, controlled labs, reproducible findings, and clear technical documentation.
 
-## Focus
+## / areas of interest
 
-<table>
-<tr>
-<td width="50%" valign="top">
+| Domain | Current focus |
+|:--|:--|
+| **Reverse Engineering** | Binary analysis, debugging, assembly fundamentals |
+| **Malware Analysis** | Static and dynamic analysis, behavior, indicators |
+| **Red Team** | Reconnaissance and security testing in authorized labs |
+| **Blue Team** | Network traffic, logs, detection, incident response |
 
-**01 — Reverse Engineering**
+<div align="center">
 
-- Assembly and binary fundamentals
-- Static and dynamic analysis
-- Program behavior and debugging
-- Understanding executable formats
+<sub>AREAS UNDER ACTIVE STUDY · BARS REPRESENT LEARNING FOCUS, NOT PROFICIENCY</sub>
 
-</td>
-<td width="50%" valign="top">
+</div>
 
-**02 — Malware Analysis**
+**Reverse Engineering**
+`████████░░`  Focus
 
-- Safe sample-handling practices
-- Behavioral investigation
-- Indicators of compromise
-- Analysis notes and reporting
+**Malware Analysis**
+`███████░░░`  Focus
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+**Red Team**
+`██████░░░░`  Focus
 
-**03 — Red Team**
+**Blue Team**
+`███████░░░`  Focus
 
-- Networking and Linux fundamentals
-- Web security concepts
-- Reconnaissance in authorized labs
-- Methodical security testing
-
-</td>
-<td width="50%" valign="top">
-
-**04 — Blue Team**
-
-- Packet and log analysis
-- Threat detection fundamentals
-- Incident response workflow
-- Defensive security research
-
-</td>
-</tr>
-</table>
-
-## Toolkit
+## / toolkit
 
 <div align="center">
 
@@ -85,55 +59,55 @@ I value practical labs, clear documentation, and learning the fundamentals befor
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/Wireshark-Research-1f2937?style=flat-square&logo=wireshark&logoColor=60a5fa" />
-<img src="https://img.shields.io/badge/Termux-Android_Lab-1f2937?style=flat-square&logo=android&logoColor=34d399" />
-<img src="https://img.shields.io/badge/Ghidra-Learning-1f2937?style=flat-square&logo=buffer&logoColor=f59e0b" />
+<img src="https://img.shields.io/badge/Wireshark-Network_Analysis-202b3a?style=flat-square&logo=wireshark&logoColor=8aa4c8" />
+<img src="https://img.shields.io/badge/Ghidra-Binary_Analysis-202b3a?style=flat-square&logoColor=8aa4c8" />
+<img src="https://img.shields.io/badge/Termux-Mobile_Lab-202b3a?style=flat-square&logo=android&logoColor=8aa4c8" />
 
 </div>
 
-## Current learning path
+## / current direction
 
 ```text
-FOUNDATIONS
-  ├── Networking & TCP/IP
-  ├── Linux internals
-  └── Python / Bash scripting
+01  FOUNDATIONS
+    ├── Networking & TCP/IP
+    ├── Linux internals
+    └── Python and Bash
 
-ANALYSIS
-  ├── Assembly fundamentals
-  ├── Executable file formats
-  └── Static & dynamic analysis
+02  PROGRAM ANALYSIS
+    ├── Assembly fundamentals
+    ├── Executable formats
+    └── Static and dynamic analysis
 
-SECURITY OPERATIONS
-  ├── Authorized penetration-testing labs
-  ├── Packet and log analysis
-  └── Detection & incident response
+03  SECURITY OPERATIONS
+    ├── Authorized testing labs
+    ├── Packet and log analysis
+    └── Detection and response
 ```
 
-## GitHub activity
+## / activity
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Lupepeksokhekeljink&show_icons=true&hide_border=true&bg_color=0d1117&title_color=60a5fa&icon_color=60a5fa&text_color=c9d1d9" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lupepeksokhekeljink&layout=compact&hide_border=true&bg_color=0d1117&title_color=60a5fa&text_color=c9d1d9" />
+<img height="150" src="https://github-readme-stats.vercel.app/api?username=0xNanzaa25&show_icons=true&hide_border=true&bg_color=0d1117&title_color=8aa4c8&icon_color=8aa4c8&text_color=c9d1d9" />
+<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xNanzaa25&layout=compact&hide_border=true&bg_color=0d1117&title_color=8aa4c8&text_color=c9d1d9" />
 
-<img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=Lupepeksokhekeljink&bg_color=0d1117&color=c9d1d9&line=3b82f6&point=60a5fa&area=true&hide_border=true" />
+<img width="94%" src="https://github-readme-activity-graph.vercel.app/graph?username=0xNanzaa25&bg_color=0d1117&color=c9d1d9&line=607da8&point=8aa4c8&area=true&hide_border=true" />
 
 </div>
 
-## Principles
+## / principles
 
-- **Permission first.** Test only systems I own or am explicitly authorized to assess.
-- **Safety first.** Investigate suspicious files in isolated lab environments.
-- **Evidence over assumptions.** Record observations and verify conclusions.
-- **Keep learning.** Strong fundamentals beat a long list of tools.
+- **Authorized only** — assess systems only with explicit permission.
+- **Isolated by design** — handle suspicious files in controlled environments.
+- **Evidence first** — verify findings and document the methodology.
+- **Responsible research** — use knowledge to understand, improve, and defend.
 
 ---
 
 <div align="center">
 
-### Think deeply. Analyze carefully. Build responsibly.
+**Observe carefully. Think critically. Build responsibly.**
 
-<sub>Lupepeksokhekeljink · Security research in progress</sub>
+<sub>0xNanzaa25 · Independent security learning</sub>
 
 </div>
